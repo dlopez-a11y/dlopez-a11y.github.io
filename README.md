@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Daniel López
 
-<!--
-**dlopez-a11y/dlopez-a11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador front-end con especialización en **accesibilidad digital (WAI:WCAG 2.2, UNE-EN 301549:2022)**.  
+Me apasiona crear interfaces inclusivas, limpias y funcionalmente correctas.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tecnologías
+HTML • CSS • JavaScript • React • PHP • WAI-ARIA
+
+---
+
+## 🌍 Proyectos Destacados
+
+Próximamente...
+
+---
+
+## 📫 Contacto  
+- 💼 [LinkedIn](https://es.linkedin.com/in/daniel-l%C3%B3pez-de-la-torre-38933b88)  
+- ✉️ dldlt@hotmail.com
